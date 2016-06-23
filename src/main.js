@@ -1,4 +1,4 @@
-import style from './assets/css/application.css'
+import './assets/css/application.css'
 
 import Vue from 'vue'
 import Resource from 'vue-resource'
