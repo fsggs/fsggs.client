@@ -1,4 +1,5 @@
 import Navigation from '../navigation/Navigation'
+
 //noinspection JSUnresolvedVariable
 import template from './Application.html'
 
